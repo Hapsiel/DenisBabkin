@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.aaasaa.PersonRepositoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-10-07T09:26:31" hostname="DESKTOP-QQI5BL8" time="0.276">
+  <properties/>
+  <testcase name="HasDuplicateTest()" classname="com.example.aaasaa.PersonRepositoryTest" time="0.179"/>
+  <testcase name="ChangePersonTest()" classname="com.example.aaasaa.PersonRepositoryTest" time="0.015"/>
+  <testcase name="InitializeTest()" classname="com.example.aaasaa.PersonRepositoryTest" time="0.003"/>
+  <testcase name="ReturnPersonListTest()" classname="com.example.aaasaa.PersonRepositoryTest" time="0.008"/>
+  <testcase name="DeletePerosnByNameTest()" classname="com.example.aaasaa.PersonRepositoryTest" time="0.012"/>
+  <testcase name="AddPersonTest()" classname="com.example.aaasaa.PersonRepositoryTest" time="0.003"/>
+  <testcase name="DeletePerosnByIdTest()" classname="com.example.aaasaa.PersonRepositoryTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
